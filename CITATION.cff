@@ -1,8 +1,9 @@
 title: no-printer
 authors:
-  - given-names: DORIAN
-    family-names: afsdf
+  - given-names: Dorian
+    family-names: Portillo
     email: lkj@gmail.com
+    affiliation: QWERY
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
