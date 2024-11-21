@@ -1,0 +1,31 @@
+{
+  "name": "no-printer",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "applicationCategory": "Aviation test",
+  "author": [
+    {
+      "email": "lkj@gmail.com",
+      "familyName": "afsdf",
+      "id": "_:author_1",
+      "givenName": "DORIAN",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/fair-test/no-printer",
+  "dateCreated": "2024-10-31",
+  "datePublished": "2024-11-21",
+  "description": "input description",
+  "developmentStatus": "concept",
+  "issueTracker": "https://github.com/fair-test/no-printer/issues",
+  "keywords": [
+    "ddd",
+    "rrre"
+  ],
+  "license": "https://spdx.org/licenses/MPL-1.1",
+  "programmingLanguage": [
+    "C",
+    "C++",
+    "C#"
+  ],
+  "type": "SoftwareSourceCode"
+}
