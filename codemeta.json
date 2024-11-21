@@ -4,10 +4,14 @@
   "applicationCategory": "Aviation test",
   "author": [
     {
+      "affiliation": {
+        "name": "QWERY",
+        "type": "Organization"
+      },
       "email": "lkj@gmail.com",
-      "familyName": "afsdf",
+      "familyName": "Portillo",
       "id": "_:author_1",
-      "givenName": "DORIAN",
+      "givenName": "Dorian",
       "type": "Person"
     }
   ],
