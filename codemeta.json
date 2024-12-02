@@ -10,26 +10,154 @@
       },
       "email": "lkj@gmail.com",
       "familyName": "Portillo",
-      "id": "_:author_1",
+      "id": "https://voidresume.com",
       "givenName": "Dorian",
       "type": "Person"
+    },
+    {
+      "familyName": "User",
+      "id": "_:author_2",
+      "givenName": "Testing",
+      "type": "Person"
+    },
+    {
+      "email": "email@gmail.com",
+      "familyName": "User",
+      "id": "https://google.com",
+      "givenName": "Google",
+      "type": "Person"
+    },
+    {
+      "affiliation": {
+        "name": "Affiliate Marketing",
+        "type": "Organization"
+      },
+      "familyName": "Luigi",
+      "id": "_:author_4",
+      "givenName": "Mario",
+      "type": "Person"
+    },
+    {
+      "roleName": "Developer",
+      "startDate": "2024-12-02",
+      "schema:author": "https://voidresume.com",
+      "type": "Role"
+    },
+    {
+      "endDate": "2024-12-31",
+      "roleName": "Dev 1",
+      "startDate": "2024-12-01",
+      "schema:author": "_:author_2",
+      "type": "Role"
+    },
+    {
+      "roleName": "Lead",
+      "schema:author": "https://google.com",
+      "type": "Role"
     }
   ],
+  "contributor": [
+    {
+      "email": "contrib@gmail.com",
+      "familyName": "Main",
+      "id": "_:contributor_1",
+      "givenName": "Contrib",
+      "type": "Person"
+    },
+    {
+      "affiliation": {
+        "name": "USC",
+        "type": "Organization"
+      },
+      "familyName": "Doe",
+      "id": "https://rivals.com",
+      "givenName": "Jon",
+      "type": "Person"
+    },
+    {
+      "familyName": "Libre",
+      "id": "https://yessirrrr.com",
+      "givenName": "Nacho",
+      "type": "Person"
+    },
+    {
+      "familyName": "One",
+      "id": "_:contributor_4",
+      "givenName": "Last",
+      "type": "Person"
+    },
+    {
+      "roleName": "Dancing Queen",
+      "contributor": "_:contributor_1",
+      "type": "Role"
+    },
+    {
+      "endDate": "2024-12-02",
+      "roleName": "UH",
+      "startDate": "2024-12-01",
+      "contributor": "https://yessirrrr.com",
+      "type": "Role"
+    },
+    {
+      "endDate": "2024-12-31",
+      "roleName": "Quality Assurance",
+      "startDate": "2024-12-01",
+      "contributor": "_:contributor_4",
+      "type": "Role"
+    }
+  ],
+  "codemeta:continuousIntegration": {
+    "id": "https://cont.integration"
+  },
+  "codemeta:isSourceCodeOf": {
+    "id": "isSourceCodeof"
+  },
   "codeRepository": "https://github.com/fair-test/no-printer",
-  "dateCreated": "2024-10-31",
-  "datePublished": "2024-11-21",
+  "contIntegration": "https://cont.integration",
+  "dateCreated": "2024-10-30",
+  "dateModified": "2024-12-01",
+  "datePublished": "2024-11-20",
   "description": "input description",
-  "developmentStatus": "concept",
+  "developmentStatus": "inactive",
+  "downloadUrl": "https://download.url",
+  "funder": {
+    "name": "fundingOrganization",
+    "type": "Organization"
+  },
+  "funding": "fundingCode",
+  "isPartOf": "https://isPartOf.com",
   "issueTracker": "https://github.com/fair-test/no-printer/issues",
   "keywords": [
-    "ddd",
-    "rrre"
+    "key",
+    "words"
   ],
   "license": "https://spdx.org/licenses/MPL-1.1",
+  "operatingSystem": [
+    "Windows 11",
+    "Windows 10",
+    "Windows 8.1",
+    "Windows 8"
+  ],
   "programmingLanguage": [
     "C",
     "C++",
     "C#"
   ],
+  "relatedLink": [
+    "https://related.com",
+    "https://links.com"
+  ],
+  "runtimePlatform": [
+    "CLR",
+    ".Net",
+    "JVM"
+  ],
+  "schema:releaseNotes": "initial stable release",
+  "softwareRequirements": [
+    "Other",
+    "Software",
+    "Requirements"
+  ],
+  "version": "1.0.0",
   "type": "SoftwareSourceCode"
 }
