@@ -3,13 +3,23 @@ authors:
   - given-names: Dorian
     family-names: Portillo
     email: lkj@gmail.com
-    affiliation: testing
+    affiliation: QWERY
+  - given-names: Testing
+    family-names: User
+  - given-names: Google
+    family-names: User
+    email: email@gmail.com
+  - given-names: Mario
+    family-names: Luigi
+    affiliation: Affiliate Marketing
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
 abstract: input description
 keywords:
-  - ddd
-  - rrre
+  - key
+  - words
 license: MPL-1.1
 repository-code: https://github.com/fair-test/no-printer
+date-released: 2024-12-01
+version: 1.0.0
