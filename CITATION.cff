@@ -19,7 +19,7 @@ abstract: input description
 keywords:
   - key
   - words
-license: MPL-1.1
+license: ZPL-2.0
 repository-code: https://github.com/fair-test/no-printer
 date-released: 2024-12-01
 version: 1.0.0
