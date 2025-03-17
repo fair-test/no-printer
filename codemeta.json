@@ -117,7 +117,7 @@
   "dateCreated": "2024-10-30",
   "dateModified": "2024-12-01",
   "datePublished": "2024-11-20",
-  "description": "input description",
+  "description": "input descriptiondfasdfasdf",
   "developmentStatus": "inactive",
   "downloadUrl": "https://download.url",
   "funder": {
@@ -152,7 +152,7 @@
     ".Net",
     "JVM"
   ],
-  "schema:releaseNotes": "initial stable release",
+  "schema:releaseNotes": "initial stable releasefd asdfasdf",
   "softwareRequirements": [
     "Other",
     "Software",
