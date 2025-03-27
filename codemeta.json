@@ -115,7 +115,7 @@
   "codeRepository": "https://github.com/fair-test/no-printer",
   "contIntegration": "https://cont.integration",
   "dateCreated": "2024-10-30",
-  "dateModified": "2025-03-26",
+  "dateModified": "2025-03-27",
   "datePublished": "2024-11-20",
   "description": "input descriptiondfasdfasdf",
   "developmentStatus": "inactive",
@@ -158,7 +158,7 @@
     "Software",
     "Requirements"
   ],
-  "version": "1738.2",
+  "version": "1.2.2",
   "type": "SoftwareSourceCode",
-  "identifier": "10.5281/zenodo.190918"
+  "identifier": "10.5281/zenodo.191381"
 }
