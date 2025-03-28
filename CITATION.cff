@@ -22,5 +22,5 @@ keywords:
 license: Zlib
 repository-code: https://github.com/fair-test/no-printer
 date-released: '2025-03-28'
-version: '1872254345'
-doi: 10.5281/zenodo.191444
+version: 1.2.2
+doi: 10.5281/zenodo.191445
