@@ -125,13 +125,14 @@
     "type": "Organization"
   },
   "funding": "fundingCode",
+  "identifier": "10.5281/zenodo.193302",
   "isPartOf": "https://isPartOf.com",
   "issueTracker": "https://github.com/fair-test/no-printer/issues",
   "keywords": [
     "key",
     "words"
   ],
-  "license": "https://spdx.org/licenses/Zlib",
+  "license": "https://spdx.org/licenses/MIT",
   "operatingSystem": [
     "Windows 11",
     "Windows 10",
@@ -159,5 +160,5 @@
     "Requirements"
   ],
   "version": "123",
-  "type": "SoftwareSourceCode",
+  "type": "SoftwareSourceCode"
 }
