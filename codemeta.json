@@ -125,7 +125,7 @@
     "type": "Organization"
   },
   "funding": "fundingCode",
-  "identifier": "https://doi.org/10.5281/zenodo.491754",
+  "identifier": "https://doi.org/10.5281/zenodo.491756",
   "isPartOf": "https://isPartOf.com",
   "issueTracker": "https://github.com/fair-test/no-printer/issues",
   "keywords": [
@@ -159,6 +159,6 @@
     "Software",
     "Requirements"
   ],
-  "version": "000.123.1",
+  "version": "1231",
   "type": "SoftwareSourceCode"
 }
