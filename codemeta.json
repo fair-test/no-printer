@@ -125,7 +125,7 @@
     "type": "Organization"
   },
   "funding": "fundingCode",
-  "identifier": "https://doi.org/10.5281/zenodo.491748",
+  "identifier": "https://doi.org/10.5281/zenodo.491752",
   "isPartOf": "https://isPartOf.com",
   "issueTracker": "https://github.com/fair-test/no-printer/issues",
   "keywords": [
