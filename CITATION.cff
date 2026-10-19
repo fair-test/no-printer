@@ -15,12 +15,12 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
-doi: 10.5281/zenodo.491758
+doi: 10.5072/zenodo.622210
 abstract: input descriptiondfasdfasdf
 keywords:
   - key
   - words
 license: MIT
 repository-code: https://github.com/fair-test/no-printer
-date-released: 2026-04-21
-version: "1222312"
+date-released: '2026-10-19'
+version: '9.9'
