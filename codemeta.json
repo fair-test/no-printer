@@ -97,7 +97,7 @@
   "codeRepository": "https://github.com/fair-test/no-printer",
   "contIntegration": "https://cont.integration",
   "dateCreated": "2024-10-29",
-  "dateModified": "2026-10-19",
+  "dateModified": "2026-10-28",
   "datePublished": "2024-11-19",
   "description": "input descriptiondfasdfasdf",
   "developmentStatus": "inactive",
@@ -107,7 +107,7 @@
     "type": "Organization"
   },
   "funding": "fundingCode",
-  "identifier": "https://doi.org/10.5072/zenodo.622383",
+  "identifier": "https://doi.org/10.5072/zenodo.626745",
   "isPartOf": "https://isPartOf.com",
   "issueTracker": "https://github.com/fair-test/no-printer/issues",
   "keywords": [
@@ -141,6 +141,6 @@
     "Software",
     "Requirements"
   ],
-  "version": "232.33",
+  "version": "323.2",
   "type": "SoftwareSourceCode"
 }
